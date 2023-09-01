@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioTramas", "EjercicioTramas\EjercicioTramas.csproj", "{40946BF7-EDBF-4D5C-A2B9-FD5B192C9DCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40946BF7-EDBF-4D5C-A2B9-FD5B192C9DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40946BF7-EDBF-4D5C-A2B9-FD5B192C9DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40946BF7-EDBF-4D5C-A2B9-FD5B192C9DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40946BF7-EDBF-4D5C-A2B9-FD5B192C9DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB9E10B9-1019-4ED0-B35B-BEF71C475503}
+	EndGlobalSection
+EndGlobal
